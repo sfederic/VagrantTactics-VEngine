@@ -1,0 +1,3 @@
+2022-12-14 11:09:11.5520642 | No Start function for [test.vmap] world.
+2022-12-14 11:09:11.5535170 | World load took 0.168444 sec.
+2022-12-14 11:09:11.5556391 | Startup took: 1.438840 seconds
